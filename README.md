@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋
+
+I'm a **Software Engineer** at Doğuş Teknoloji.
+
+💬 You can check out my projects and also you can find me on [Linkedin](https://www.linkedin.com/in/hanifitayfur/)
+
+
+
 
 <!--
 **hanifitayfur/hanifitayfur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
