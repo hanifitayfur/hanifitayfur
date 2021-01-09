@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi there👋
 
 I'm a **Software Engineer** at Doğuş Teknoloji.
 
