@@ -1,6 +1,7 @@
 ### Hi there👋
 
-I'm a **Software Engineer** at Doğuş Teknoloji.
+I'm a **Software Engineer** at [Doğuş Teknoloji](https://www.linkedin.com/in/hanifitayfur/).
+
 
 💬 You can check out my projects and also you can find me on [Linkedin](https://www.linkedin.com/in/hanifitayfur/)
 
